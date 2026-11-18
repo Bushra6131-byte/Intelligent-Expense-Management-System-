@@ -1,4 +1,3 @@
-writing{variant="document" id="58322"}
 # Intelligent Expense Management System
 
 A Python-based desktop application for managing personal expenses. It allows users to add, validate, track, and analyze expenses through a simple graphical interface. Expense records are stored in CSV format.
